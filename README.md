@@ -1,2 +1,2 @@
 # app
-création d'une app
+Projet de création d'une application
